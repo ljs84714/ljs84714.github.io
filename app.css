@@ -4,10 +4,13 @@ h1{
 }
 
 
- h2,h3{
- 	color:red;
- }
+  h2,ul{
+  	color:red;
+  }
 
+
+ul{ font-size:30px;
+}
 
 
 
